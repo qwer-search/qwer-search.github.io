@@ -159,17 +159,6 @@
     
     
     <entry>
-      <title>神秘小屋</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签页</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -195,6 +184,17 @@
       <title>我的好朋友们</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>神秘小屋</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
