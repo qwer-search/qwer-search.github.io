@@ -2,79 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/7973e2eb.html</loc>
+    <loc>https://www.shengbenku.tk/posts/d69300ba.html</loc>
     
-    <lastmod>2022-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/c98b328b.html</loc>
-    
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/e549ff57.html</loc>
+    <loc>https://www.shengbenku.tk/posts/7973e2eb.html</loc>
     
-    <lastmod>2022-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/3217b0d8.html</loc>
-    
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/e3aef8ec.html</loc>
+    <loc>https://www.shengbenku.tk/posts/533254b9.html</loc>
     
-    <lastmod>2022-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/bc931c4c.html</loc>
-    
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/84a199f2.html</loc>
+    <loc>https://www.shengbenku.tk/posts/c98b328b.html</loc>
     
-    <lastmod>2022-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/533254b9.html</loc>
-    
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://www.shengbenku.tk/posts/bc931c4c.html</loc>
+    
+    <lastmod>2022-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shengbenku.tk/posts/e549ff57.html</loc>
+    
+    <lastmod>2022-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shengbenku.tk/posts/84a199f2.html</loc>
+    
+    <lastmod>2022-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shengbenku.tk/posts/3217b0d8.html</loc>
+    
+    <lastmod>2022-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shengbenku.tk/posts/e3aef8ec.html</loc>
+    
+    <lastmod>2022-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shengbenku.tk/categories/index.html</loc>
     
     <lastmod>2022-09-04</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://www.shengbenku.tk/link/index.html</loc>
     
     <lastmod>2022-09-04</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://www.shengbenku.tk/tags/index.html</loc>
     
     <lastmod>2022-09-04</lastmod>
     
@@ -102,44 +111,51 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <loc>https://www.shengbenku.tk/</loc>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/%E4%B8%93%E5%8D%87%E6%9C%AC/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <loc>https://www.shengbenku.tk/tags/%E4%B8%93%E5%8D%87%E6%9C%AC/</loc>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%87%BD%E6%95%B0%E7%AF%87/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <loc>https://www.shengbenku.tk/tags/%E5%87%BD%E6%95%B0%E7%AF%87/</loc>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/JS/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <loc>https://www.shengbenku.tk/tags/JS/</loc>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/css/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <loc>https://www.shengbenku.tk/tags/css/</loc>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%80%83%E7%A0%94/</loc>
-    <lastmod>2022-09-20</lastmod>
+    <loc>https://www.shengbenku.tk/tags/%E8%80%83%E7%A0%94/</loc>
+    <lastmod>2022-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shengbenku.tk/tags/web/</loc>
+    <lastmod>2022-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
