@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Replit代理篇</title>
+      <link href="/posts/c4bb21fa.html"/>
+      <url>/posts/c4bb21fa.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="简介："><a href="#简介：" class="headerlink" title="简介："></a>简介：</h1><p>本项目用于在 Replit.com 免费服务上部署 V2ray ，采用的方案为 Nginx + WebSocket + VMess&#x2F;VLess + TLS。</p><h1 id="注意事项："><a href="#注意事项：" class="headerlink" title="注意事项："></a>注意事项：</h1><p><strong>请勿滥用，账号封禁风险自负。网络流量每月有100GB软上限。</strong></p><h1 id="部署："><a href="#部署：" class="headerlink" title="部署："></a>部署：</h1><p>注册并登录 <a href="https://replit.com/">Replit.com</a> 账户</p><p><a href="https://imgse.com/i/pSzXyKP"><img src="https://s1.ax1x.com/2023/02/24/pSzXyKP.png" alt="pSzXyKP.png"></a></p><p>Replit首页</p><p><a href="https://imgse.com/i/pSzX48s"><img src="https://s1.ax1x.com/2023/02/24/pSzX48s.png" alt="pSzX48s.png"></a></p><p>点击<a href="https://replit.com/@cvbh/ww">https://replit.com/@cvbh/ww</a></p><p><a href="https://imgse.com/i/pSzjEPH"><img src="https://s1.ax1x.com/2023/02/24/pSzjEPH.png" alt="pSzjEPH.png"></a></p><p>名字可自定义，点击蓝色框框 Fork Repl</p><p><a href="https://imgse.com/i/pSzjQZ8"><img src="https://s1.ax1x.com/2023/02/24/pSzjQZ8.png" alt="pSzjQZ8.png"></a></p><p>1：点击Run2:出现Welcome to nginx!，代表成功！3：打开v2rayN（Win端）和v2rayNG（安卓端）</p><p><a href="https://imgse.com/i/pSzjgQ1"><img src="https://s1.ax1x.com/2023/02/24/pSzjgQ1.png" alt="pSzjgQ1.png"></a></p><h1 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h1><p>感谢：<a href="https://github.com/hiifeng/V2ray-for-Replit">https://github.com/hiifeng/V2ray-for-Replit</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 代理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Warp代理注册流程，永久使用</title>
       <link href="/posts/2d9fcf35.html"/>
       <url>/posts/2d9fcf35.html</url>
