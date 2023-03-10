@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Warp支持ChatGPT</title>
+      <link href="/posts/24f9b158.html"/>
+      <url>/posts/24f9b158.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="所需工具"><a href="#所需工具" class="headerlink" title="所需工具"></a>所需工具</h1><p>1、<a href="https://wwhm.lanzoub.com/iPVpS0pr6mcd">下载地址</a></p><p><a href="https://imgse.com/i/ppueQ6x"><img src="https://s1.ax1x.com/2023/03/10/ppueQ6x.png" alt="ppueQ6x.png"></a></p><p>2、选择对应的系统，双击运行，便可筛选出支持访问ChatGPT的IP，优选IP都会放在result.csv中，以自己网络筛选为准，0%为最好。</p><p><a href="https://imgse.com/i/ppue5uV"><img src="https://s1.ax1x.com/2023/03/10/ppue5uV.png" alt="ppue5uV.png"></a></p><p>3、打开之前安装的WireGuard,替换warp配置文件的IP和端口，替换自己优选出的IP和端口即可。</p><p><a href="https://imgse.com/i/ppumk8A"><img src="https://s1.ax1x.com/2023/03/10/ppumk8A.png" alt="ppumk8A.png"></a></p><p>4、点击链接，现在Warp就可以访问ChatGPT了。</p><p><a href="https://imgse.com/i/ppum18s"><img src="https://s1.ax1x.com/2023/03/10/ppum18s.png" alt="ppum18s.png"></a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ChatGPT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Replit代理篇</title>
       <link href="/posts/c4bb21fa.html"/>
       <url>/posts/c4bb21fa.html</url>
