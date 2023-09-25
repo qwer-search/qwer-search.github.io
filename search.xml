@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>SoftEther VPN Client</title>
+      <link href="/posts/dd304ed8.html"/>
+      <url>/posts/dd304ed8.html</url>
+      
+        <content type="html"><![CDATA[<p>在之前博客当中分享过如何注册免费Warp账户，随着warp的爆火也吸引了一批白嫖党。随着使用者增多，warp逐渐变慢了。今天给大家介绍一个代理客户端并且内置各种电脑协议的代理。VPN Gate Client，VPN Gate 学术实验项目是一个在线服务，由日本国立筑波大学研究生院为学术研究目的运营。本研究的目的是推广 “全球分布式公共 VPN 中继服务器” 的知识。在 VPN Gate 学术项目网站上有一个公共 VPN 中继服务器列表。互联网上的任何人都可以建立 VPN 连接至任一列表上的 VPN 服务器。无需用户注册。</p><h2 id="vpngate-net-镜像站点"><a href="#vpngate-net-镜像站点" class="headerlink" title="vpngate.net 镜像站点"></a><strong>vpngate.net 镜像站点</strong></h2><p><strong><a href="http://103.201.129.226:14684/cn/"><br>http://103.201.129.226:14684/cn/</a></strong> (Mirror location: Japan)</p><p><strong><a href="http://109.111.243.206:17579/cn/">http://109.111.243.206:17579/cn/</a></strong> (Mirror location: Serbia)</p><p><strong><a href="http://122.208.194.111:54239/cn/">http://122.208.194.111:54239/cn/</a></strong> (Mirror location: Japan)</p><p><strong><a href="http://173-198-248-39.static.as40244.net:18358/cn/">http://173-198-248-39.static.as40244.net:18358/cn/</a></strong> (Mirror location: United States)</p><p><strong><a href="http://78.142.193.246:33304/cn/">http://78.142.193.246:33304/cn/</a></strong> (Mirror location: Germany)</p><p><strong><a href="http://91.193.75.5:45082/cn/">http://91.193.75.5:45082/cn/</a></strong> (Mirror location: Germany)</p><h2 id="VPN-Gate-源-主-网站-URL"><a href="#VPN-Gate-源-主-网站-URL" class="headerlink" title="VPN Gate 源 (主) 网站 URL"></a><strong>VPN Gate 源 (主) 网站 URL</strong></h2><p><strong><a href="https://www.vpngate.net/">https://www.vpngate.net/</a></strong></p><h1 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a><strong>使用步骤</strong></h1><p>1.打开网站，进入首页。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925204742.png"></p><p>2.查看VPN Gate地区服务器,地区较多，自行选择。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925205251.png"></p><p>3.电脑可以用自带的L2TP、MS SSTP等等；Windows系统建议下载客户端，按照图片红框指示下载。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925205557.png"></p><p>4.还有其他版本，请认真查看官网找到对应的版本，支持 Windows、Mac、智能手机、平板电脑 (iPhone、iPad、安卓、Windows RT) 和思科或其他 VPN 路由器。SoftEther VPN 还支持 OpenVPN 和 MS-SSTP VPN 客户端。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925210344.png"></p><p>5.以Windows系统为例，下载客户端。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925210616.png"></p><p>6.客户端界面</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925210752.png"></p><p>7.选择你需要地区的服务器，双击连接服务器。出现“会话已连接”代表成功。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925211000.png"></p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925211146.png"></p><p>8.当 VPN 建立时，所有到互联网的通讯将通过 VPN 服务器转发。您可以在 Windows 命令提示中使用 <strong>“tracert 8.8.8.8”</strong> 命令验证。如果数据包路径是通过 “10.211.254.254” ，你的通信现在就是通过 VPN Gate 公共 VPN 服务器中的一个转发的。</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925211426.png"></p><p>9.访问Youtube</p><p><img src="https://cdn.jsdelivr.net/gh/qwer-search/blog-img@main/img/20230925211701.png"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> VPN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Warp支持ChatGPT</title>
       <link href="/posts/24f9b158.html"/>
       <url>/posts/24f9b158.html</url>
@@ -273,9 +292,9 @@
     
     
     <entry>
-      <title>我的好朋友们</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>神秘小屋</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -284,9 +303,9 @@
     
     
     <entry>
-      <title>神秘小屋</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>我的好朋友们</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
